@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{CF24C956-70B3-6D6B-27F3-2385BA6CC5A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Coin.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Coin.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Collect.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/FloowPlayer.cs" Line="2" Column="1" />
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="6" Column="59" />
+      <File FileName="Assets/Scripts/playerMovement.cs" Line="7" Column="48" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="8" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S08352038" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Coin.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e48ea81c-7f39-42a1-ba83-33677d914028" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
